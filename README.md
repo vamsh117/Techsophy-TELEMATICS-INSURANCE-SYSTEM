@@ -49,14 +49,5 @@ The project follows a modular design pattern for clarity, scalability, and maint
 
 ---
 
-## Installation and Usage
 
-### Prerequisites
-- Python 3.x
-- pip (Python package manager)
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/telematics-insurance-system.git
-cd telematics-insurance-system
 
